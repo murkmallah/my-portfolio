@@ -5,6 +5,7 @@ Welcome to my portfolio! Here you can find a collection of my technical projects
 Projects
 
 Weather Forecasting App
+
 A responsive web application that provides real-time weather forecasts using the OpenWeatherMap API. The app allows users to enter a city name and view the current weather, including temperature, humidity, and weather conditions.
 
 - Technologies Used: HTML, CSS, JavaScript, PHP, OpenWeatherMap API
@@ -12,7 +13,9 @@ A responsive web application that provides real-time weather forecasts using the
   - Real-time weather updates.
   - Displays temperature, humidity, and weather conditions.
   - City-based search functionality.
+
 Book Recommendation Agent
+
 A recommendation system that suggests books based on user preferences and genre. This AI agent uses machine learning to provide genre-based recommendations and suggest popular books.
 
 - Technologies Used: Python, Pandas, Scikit-learn, Goodreads API
